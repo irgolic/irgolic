@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![IMG_7575](https://github.com/irgolic/irgolic/assets/24586651/c68d4aea-54f4-4d32-857d-24c646e3e133)  
+(from gitroll.io)
 <!--
 **irgolic/irgolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
