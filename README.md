@@ -1,5 +1,6 @@
-![IMG_7575](https://github.com/irgolic/irgolic/assets/24586651/c68d4aea-54f4-4d32-857d-24c646e3e133)  
-(from gitroll.io)
+<img alt="Screenshot 2024-05-11 at 14 58 55" src="https://github.com/irgolic/irgolic/assets/24586651/23b3e5b7-da8a-49a9-a020-5aa3817e14a8">
+
+(from [gitroll.io](https://gitroll.io/profile/sGiA6gWKikJ6emZidxXA4))
 <!--
 **irgolic/irgolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
